@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Stats](https://github-readme-stats.vercel.app/api?username=YisuSM)
+![Stats](https://github-readme-stats.vercel.app/api?username=YisusSM)
 
 <!--
 **YisusSM/YisusSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
